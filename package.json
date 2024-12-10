@@ -1,6 +1,6 @@
 {
 	"name": "@ryanwelcher/all-the-things",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A create-block template that I use to do all things.",
 	"main": "index.js",
 	"author": {
