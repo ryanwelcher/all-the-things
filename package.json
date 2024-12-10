@@ -14,10 +14,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ryanwelcher/block-developer-cookbook.git"
+		"url": "git+https://github.com/ryanwelcher/all-the-things.git"
 	},
 	"bugs": {
-		"url": "https://github.com/ryanwelcher/block-developer-cookbook/issues"
+		"url": "https://github.com/ryanwelcher/all-the-things/issues"
 	},
 	"publishConfig": {
 		"access": "public"
